@@ -24,8 +24,7 @@
         android:hint="Note2"
         android:importantForAutofill="no"
         android:inputType="numberDecimal"
-        android:minHeight="48dp"
-        tools:text="note2" />
+        android:minHeight="48dp" />
 
     <EditText
         android:id="@+id/note3"
